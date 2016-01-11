@@ -3,7 +3,13 @@
 [ ![Dependency Status](https://david-dm.org/radify/icalstats.js.svg)](https://david-dm.org/radify/icalstats.js)
 [ ![devDependency Status](https://david-dm.org/radify/icalstats.js/dev-status.svg)](https://david-dm.org/radify/icalstats.js#info=devDependencies)
 
+
+# DEPRECATED
+
+This tool has been superseded by [calstats.js](https://github.com/radify/calstats.js), which supports more than just ical feeds.
+
 # icalstats.js
+
 
 NodeJS tool that can interpret an ical feed (e.g. from Google Calendar) and output statistics by parsing [tags]. Provides:
 
